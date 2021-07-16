@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://f4ftwear.vercel.app/"
 languageCode = "en-us"
 title = "FTF3 Wear "
 theme = "ananke"
